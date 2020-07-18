@@ -1,8 +1,10 @@
 # PeaChat
 ## Spis treści
+
 * [Technologie](#technologie)
 * [Głowne informacje](#głowne-informacje)
 * [Opis Aplikacji](#opis-aplikacji)
+
 
 	
 
@@ -22,17 +24,18 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1108px-GitLab_Logo.svg.png" height=80px/> 
 
 
-
 ## Głowne informacje
 Projekt studencki tworzony w ramach Kursu Wybranego Języka Programowania (Python).
 
 Tworzony przez:
+
 * [Igor Cichecki](https://github.com/regin123)
 * [Michał Janik](https://github.com/mihal09)
 * [Paweł Kubala](https://github.com/Kubciooo)
 * [Maciej Lewandowicz](https://github.com/sasuke5055)
 * [Aleksandra Romanowska]()
 * [Piotr Szymański](https://github.com/PitiMonster)
+
 
 Oryginalne repo [GitLab](https://gitlab.com/sasuke5055/python-project)
 
